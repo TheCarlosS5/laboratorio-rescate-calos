@@ -1,0 +1,2 @@
+Borrador de prueba - primera parte incompleta.
+Segunda parte: archivo borrador completado despues de usar git reset --soft HEAD~1.
